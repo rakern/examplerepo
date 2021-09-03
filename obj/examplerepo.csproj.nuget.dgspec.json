@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\racha\\OneDrive\\Documents\\Bama\\Junior Year\\MIS 221-001\\source\\repos\\examplerepo\\examplerepo.csproj": {}
+    "C:\\Users\\racha\\OneDrive\\Documents\\source\\repos\\examplerepo\\examplerepo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\racha\\OneDrive\\Documents\\Bama\\Junior Year\\MIS 221-001\\source\\repos\\examplerepo\\examplerepo.csproj": {
+    "C:\\Users\\racha\\OneDrive\\Documents\\source\\repos\\examplerepo\\examplerepo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\racha\\OneDrive\\Documents\\Bama\\Junior Year\\MIS 221-001\\source\\repos\\examplerepo\\examplerepo.csproj",
+        "projectUniqueName": "C:\\Users\\racha\\OneDrive\\Documents\\source\\repos\\examplerepo\\examplerepo.csproj",
         "projectName": "examplerepo",
-        "projectPath": "C:\\Users\\racha\\OneDrive\\Documents\\Bama\\Junior Year\\MIS 221-001\\source\\repos\\examplerepo\\examplerepo.csproj",
+        "projectPath": "C:\\Users\\racha\\OneDrive\\Documents\\source\\repos\\examplerepo\\examplerepo.csproj",
         "packagesPath": "C:\\Users\\racha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\racha\\OneDrive\\Documents\\Bama\\Junior Year\\MIS 221-001\\source\\repos\\examplerepo\\obj\\",
+        "outputPath": "C:\\Users\\racha\\OneDrive\\Documents\\source\\repos\\examplerepo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\racha\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,0 +1,16 @@
+C:\Users\racha\OneDrive\Documents\source\repos\examplerepo\bin\Debug\net5.0\examplerepo.exe
+C:\Users\racha\OneDrive\Documents\source\repos\examplerepo\bin\Debug\net5.0\examplerepo.deps.json
+C:\Users\racha\OneDrive\Documents\source\repos\examplerepo\bin\Debug\net5.0\examplerepo.runtimeconfig.json
+C:\Users\racha\OneDrive\Documents\source\repos\examplerepo\bin\Debug\net5.0\examplerepo.runtimeconfig.dev.json
+C:\Users\racha\OneDrive\Documents\source\repos\examplerepo\bin\Debug\net5.0\examplerepo.dll
+C:\Users\racha\OneDrive\Documents\source\repos\examplerepo\bin\Debug\net5.0\ref\examplerepo.dll
+C:\Users\racha\OneDrive\Documents\source\repos\examplerepo\bin\Debug\net5.0\examplerepo.pdb
+C:\Users\racha\OneDrive\Documents\source\repos\examplerepo\obj\Debug\net5.0\examplerepo.csproj.AssemblyReference.cache
+C:\Users\racha\OneDrive\Documents\source\repos\examplerepo\obj\Debug\net5.0\examplerepo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\racha\OneDrive\Documents\source\repos\examplerepo\obj\Debug\net5.0\examplerepo.AssemblyInfoInputs.cache
+C:\Users\racha\OneDrive\Documents\source\repos\examplerepo\obj\Debug\net5.0\examplerepo.AssemblyInfo.cs
+C:\Users\racha\OneDrive\Documents\source\repos\examplerepo\obj\Debug\net5.0\examplerepo.csproj.CoreCompileInputs.cache
+C:\Users\racha\OneDrive\Documents\source\repos\examplerepo\obj\Debug\net5.0\examplerepo.dll
+C:\Users\racha\OneDrive\Documents\source\repos\examplerepo\obj\Debug\net5.0\ref\examplerepo.dll
+C:\Users\racha\OneDrive\Documents\source\repos\examplerepo\obj\Debug\net5.0\examplerepo.pdb
+C:\Users\racha\OneDrive\Documents\source\repos\examplerepo\obj\Debug\net5.0\examplerepo.genruntimeconfig.cache
